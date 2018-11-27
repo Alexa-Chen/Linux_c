@@ -1,0 +1,9 @@
+{
+  "name" :"wang",
+  "age":25,
+  "bir":"1990-01-01",
+  "sch":"lan",
+  "maj":["li","wa"],
+  "has":false,
+  "car":null
+}
